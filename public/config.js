@@ -1,0 +1,1 @@
+let publicnodeinfo = null;
