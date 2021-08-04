@@ -1,6 +1,9 @@
 # JDC_NEW
 JDC for qinglong 2.8
 
+# v10.0.2
+* 1、获取nickname写入remakes备注字段
+
 # v10.0.1
 * 1、禁用的cookie重新扫码登录根据配置是否自动启用
 
